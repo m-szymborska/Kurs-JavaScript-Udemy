@@ -32,7 +32,7 @@ btn1.addEventListener('click', function() {
 	console.log('kliknieto mnie');
 })
 
-// btn2.addEventListener('mouseover', () => console.log('najechano na mnie'))
+btn2.addEventListener('mouseover', () => console.log('najechano na mnie'))
 
 const test = (e) => {
 	console.log(e);
